@@ -1,15 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+> A repository with HTML and CSS Linter set up.
 
 
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
+HTML and CSS
 
 
 
